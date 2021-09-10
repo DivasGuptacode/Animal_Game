@@ -97,8 +97,3 @@ Human:    no
 (program exits)
 ```
 
-### Part 1
-Implement the game described above as a console app.  Use the `readline-sync` package for reading input from the console.
-
-### Part 2
-Make the program 'learned' data persistent.  Save the data to a file on exit, then load it when the program starts.
