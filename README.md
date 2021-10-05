@@ -1,5 +1,5 @@
 # Animal Game
-We're going to write a console-based 'animal guessing game'.  Here's an example of the input and output of the program:
+A console-based 'animal guessing game', an example of the input and output of the program:
 
 ```
 Computer: Think of an animal
@@ -94,6 +94,6 @@ Computer:
 Computer: Want to play again?
 Human:    no
 
-(program exits)
+
 ```
 
